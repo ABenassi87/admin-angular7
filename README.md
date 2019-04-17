@@ -1,5 +1,4 @@
-# admin-angular7
-layout base para construir um painel administrativo com Angular 7
+## layout base para construir um painel administrativo com Angular 7
 
 Após clonar o repositório:
 - Instalar as dependências: npm install
